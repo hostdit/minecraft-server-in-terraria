@@ -1,0 +1,3 @@
+displayName = Minecraft Server
+author = Hostd
+version = 0.1
